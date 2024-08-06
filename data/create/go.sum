@@ -1,0 +1,10 @@
+github.com/g-ameline/maybe v0.0.0-20230830075651-0378745e1325 h1:FTo0Sc308a7kJ6/41quPOGOKL8NR7bGAOwAWxCrYols=
+github.com/g-ameline/maybe v0.0.0-20230830075651-0378745e1325/go.mod h1:7TphTbo/2oMVdUdDRCb7wkdK6XTE/V4WtwaLKh5PRAM=
+github.com/g-ameline/maybe v0.0.0-20230830105150-148e2407b592 h1:B+qwuFMdVkY+keQuXRi1I3R9fykM2yslRDjNEADga9c=
+github.com/g-ameline/maybe v0.0.0-20230830105150-148e2407b592/go.mod h1:nWF+CNifBl6PJ9klYLYCX7aZxFwwuz4Ory4UK+FE7ew=
+github.com/g-ameline/sql_helper v0.0.0-20230830085607-b831946e62ed h1:hVgSEOndPu7thc2zIpkstunUTH5ia77y6jxiEXmMrG8=
+github.com/g-ameline/sql_helper v0.0.0-20230830085607-b831946e62ed/go.mod h1:F9lm3xrAc3LPykDaSz1p5jUiFHdPNCnV5YHGSnq19qk=
+github.com/g-ameline/sql_helper v0.2.0 h1:zAyiIfHtYlBmalrLMSD2lC3JW/CcKkAFo1BbUP3VRCE=
+github.com/g-ameline/sql_helper v0.2.0/go.mod h1:RA4Xq7BOtWeApxczJGy6Yx6sbE1WcpQsRhNzW+Rjkvg=
+github.com/mattn/go-sqlite3 v1.14.17 h1:mCRHCLDUBXgpKAqIKsaAaAsrAlbkeomtRFKXh2L6YIM=
+github.com/mattn/go-sqlite3 v1.14.17/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
